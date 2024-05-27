@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Fugaz One
+Author: LatinoType
+Url: https://fonts.google.com/specimen/Fugaz+One
+
+Font: Syncopate
+Author: Astigmatic
+Url: https://fonts.google.com/specimen/Syncopate
